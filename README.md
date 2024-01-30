@@ -7,7 +7,7 @@ The metrics EDOMEr2 and EDOMEr add r2 (squared Pearson correlation) and r (Spear
 Reference
 Walsh I, Fishman D, Garcia-Gasulla D, Titma T, Pollastri G; ELIXIR Machine Learning Focus Group; Harrow J, Psomopoulos FE, Tosatto SCE. DOME: recommendations for supervised machine learning validation in biology. Nat Methods. 2021; 18(10): 1122-1127.
 
-Installing EDOME (Linux)
+<H2>Installing EDOME (Linux)</H2>
 
 You should type all commands shown here in a Linux terminal. The easiest way to open a Linux terminal is to use the Ctrl+Alt+T key combination.
 
