@@ -37,5 +37,5 @@ cd to edome directory then, type:
 
 python3 edome.py edome.in
 
-EDOME will generate the following plots.
+EDOME will generate the following plots (bind_Ki_test_set_log(RMSE)_log(MAE).png and bind_Ki_test_set_r2_rho.png) and a csv file (bind_Ki_test_set_stats.csv).
 
