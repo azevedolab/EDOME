@@ -30,6 +30,12 @@ Step 3. Download EDOME. Copy the EDOME zipped directory (edome.zip) to wherever 
 Type the following command:
 
     unzip edome.zip
+
+We have a CSV file (bind_Ki_test_set.csv) and three input files (edome.in, edome_plot1.in, and edome_plot2.in) besides the Python scripts in the zipped folder. 
+
 cd to edome directory then, type:
 
 python3 edome.py edome.in
+
+EDOME will generate the following plots.
+
