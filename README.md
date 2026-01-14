@@ -1,8 +1,7 @@
 # EDOME
 Extended DOME (data, optimization, model, and evaluation)
 
-EDOME computes metrics specified by Walsh et al. 2021 to predict the performance of regression models of biological systems. Our goal is to assess the Euclidean distance (L2 norm) of machine-learning models from an ideal model with the following coordinates: mean absolute error (MAE) = 0.0, coefficient of determination (R2) = 1.0, and Root-mean squared error (RMSE) = 0.0. We also have metrics combining the DOME strategy with the estimation of Spearman's (r) and Pearson's (r) correlations named EDOME (Extended DOME).  
-The metrics EDOMEr2 and EDOMEr add r2 (squared Pearson correlation) and r (Spearman correlation) to the Euclidean distance equation (DOME), respectively. The last metric is EDOME. We take the following metrics: r2, r, RMSE, MAE, and R2. The goal is to evaluate the distance of a machine-learning model from an ideal model with the following coordinates: r2 = 1.0, r = 1.0, RMSE = 0.0, MAE = 0.0, and R2 = 1.0. 
+You find here the Jupyter Notebook for EDOME (edome_2d_plot.ipynb). This code reads an input file defining parameters to caculate Walsh (<a href="https://pubmed.ncbi.nlm.nih.gov/34316068/">Walsh et al., 2021</a>) metric. It evaluates the predictive performance of features and scoring functions against a defined target variable (e.g., pKi). The input file (edo.in) should be in the content directory during a Colab session. It is also necessary to upload a CSV file with columns for all features and a target variable. This code outputs a CSV file with the statistical analysis and a plot showing all features defines in the edo.in.
 
 Reference
 Walsh I, Fishman D, Garcia-Gasulla D, Titma T, Pollastri G; ELIXIR Machine Learning Focus Group; Harrow J, Psomopoulos FE, Tosatto SCE. DOME: recommendations for supervised machine learning validation in biology. Nat Methods. 2021; 18(10): 1122-1127.   <a href="https://pubmed.ncbi.nlm.nih.gov/34316068/">PubMed</a>
