@@ -6,6 +6,9 @@ This Jupyter Notebook (<a href="https://github.com/azevedolab/EDOME/blob/main/ed
 
 <br><i>Schematic flowchart for EDOME. It reads binding affinity data from a CSV file with features and scoring functions and calculates metrics and generates a 2D plot. EDOME reads edo.in to define plot parameters. It determines the predictive performance of scoring functions using metrics defined elsewhere ([Walsh et 2021](https://doi.org/10.1038/s41592-021-01205-4); [de Azevedo et al., 2024](https://doi.org/10.1002/jcc.27449)).</i></br>
 <br> </br>
+<a href="https://colab.research.google.com/drive/1Ry0bfAptJaCU5Vse3fKX43w7_loLXlxL" title = "Link to Google Colab">
+<img src="https://drive.usercontent.google.com/download?id=1WZ2ekqOvOilsl-zJAZjjw3MRVxvkqSzp&export=view&authuser=0" width=180 alt="Link to Google Colab" class="center-img"></a>
+<br> </br>
 <b>References</b>
 <br> </br>
 de Azevedo WF Jr, Quiroga R, Villarreal MA, da Silveira NJF, Bitencourt-Ferreira G, da Silva AD, Veit-Acosta M, Oliveira PR, Tutone M, Biziukova N, Poroikov V, Tarasova O, Baud S. SAnDReS 2.0: Development of machine-learning models to explore the scoring function space. J Comput Chem. 2024;45(27):2333-2346.   <a href="https://doi.org/10.1002/jcc.27449" title = "de Azevedo WF Jr, Quiroga R, Villarreal MA, da Silveira NJF, Bitencourt-Ferreira G, da Silva AD, Veit-Acosta M, Oliveira PR, Tutone M, Biziukova N, Poroikov V, Tarasova O, Baud S. SAnDReS 2.0: Development of machine-learning models to explore the scoring function space. J Comput Chem. 2024;45(27):2333-2346.">DOI</a>
