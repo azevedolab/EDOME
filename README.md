@@ -4,7 +4,7 @@ This Jupyter Notebook (<a href="https://github.com/azevedolab/EDOME/blob/main/ed
 <img src="https://drive.usercontent.google.com/download?id=1WZ2ekqOvOilsl-zJAZjjw3MRVxvkqSzp&export=view&authuser=0" width=180 alt="Link to Google Colab" ></a><br>
 <br> </br>
 <img src="https://drive.usercontent.google.com/download?id=1GZcW3143SOB8uqjStbVb23LvRFaYvcbW&export=view&authuser=0" width=600 alt="EDOME Flowchart" class="center-img">
-<br><i>Schematic flowchart for EDOME. It reads binding affinity data from a CSV file with features and scoring functions and calculates metrics and generates a 2D plot. EDOME reads edo.in to define plot parameters. It determines the predictive performance of scoring functions using metrics defined elsewhere ([Walsh et 2021](https://doi.org/10.1038/s41592-021-01205-4); [de Azevedo et al., 2024](https://doi.org/10.1002/jcc.27449)).</i></br>
+<br><i>Schematic flowchart for EDOME. It reads binding affinity data from a CSV file with features and scoring functions and calculates metrics and generates a 2D plot. EDOME reads edo.in to define plot parameters. It determines the predictive performance of scoring functions using metrics defined elsewhere ([Walsh et al., 2021](https://doi.org/10.1038/s41592-021-01205-4); [de Azevedo et al., 2024](https://doi.org/10.1002/jcc.27449)).</i></br>
 <br> </br>
 <b>References</b>
 <br> </br>
