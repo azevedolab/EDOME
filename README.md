@@ -1,4 +1,4 @@
-<H1>EDOME: Extended DOME</H1> 
+<H1>EDOME: Extended DOME</H1>
 <a href="https://colab.research.google.com/drive/1Ry0bfAptJaCU5Vse3fKX43w7_loLXlxL" title = "Link to Google Colab">
 <img src="https://drive.usercontent.google.com/download?id=1KdXA4TI3bdnMiXc-dzU99u6s7uMVPgTD&export=view&authuser=0" height=24 alt="Link to Google Colab"></a>  
 <a href="https://github.com/azevedolab/EDOME/blob/main/src/edome_2d_plot.ipynb" title = "Link to Jupyter Notebook">
