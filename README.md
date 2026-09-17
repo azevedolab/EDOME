@@ -1,4 +1,4 @@
-<H1>EDOME: Extended DOME</H1>
+<H1>EDOME: Extended DOME</H1> 
 <a href="https://colab.research.google.com/drive/1Ry0bfAptJaCU5Vse3fKX43w7_loLXlxL" title = "Link to Google Colab">
 <img src="https://drive.usercontent.google.com/download?id=1KdXA4TI3bdnMiXc-dzU99u6s7uMVPgTD&export=view&authuser=0" height=24 alt="Link to Google Colab"></a>  
 <a href="https://github.com/azevedolab/EDOME/blob/main/src/edome_2d_plot.ipynb" title = "Link to Jupyter Notebook">
@@ -39,7 +39,7 @@ de Azevedo WF Jr, editor. Docking screens for drug discovery. 2nd ed. New York, 
 <img src="https://drive.usercontent.google.com/download?id=1rL_DWbMj6timTlYlhn9Hwm1acq8AU4QV&export=view&authuser=0" height=24 alt="Link to Google Scholar"></a>  
 <a href="https://www.scopus.com/authid/detail.uri?authorId=7006435557" title = "Link to Scopus">
 <img src="https://drive.usercontent.google.com/download?id=1URGO8UDkZV_4wX_4c0_gUvhEjfnUyqCQ&export=view&authuser=0" height=24 alt="Link to Scopus"></a>
-<a href="https://heyzine.com/flip-book/8d3ce2eb08.html" title = "Link to Curriculum Vitae (Flipbook)">
-<img src="https://drive.usercontent.google.com/download?id=17kToUZlwbJ4PgorpUY7EGQA1lFnR_2Gh&export=view&authuser=0" height=24 alt="Link to Curriculum Vitae (Flipbook)"></a>
+<a href="https://heyzine.com/flip-book/693998babe.html" title = "Link to Curriculum Vitae (Flipbook)">
+<img src="https://drive.usercontent.google.com/download?id=17kToUZlwbJ4PgorpUY7EGQA1lFnR_2Gh&export=view&authuser=0" height=24 alt="Link to Curriculum Vitae (Flipbook)"></a> 
 
 <br> </br>
